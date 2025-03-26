@@ -65,7 +65,7 @@ with st.sidebar:
     
     interval = interval_options[selected_timeframe]
     
-    st.caption("Data provided by Yahoo Finance")
+
 
 # Main content
 try:
